@@ -1,0 +1,151 @@
+150 40
+W                                      W
+W                                      W
+W                                      W
+W                                      W
+W                                      W
+W             <=>               ?   D  W
+W                          (###########W
+W Z +                                  W
+W#####)                <=>             W
+W            *m                        W
+W          <===>                       W
+W                         <=>    ^    &W
+W      <=>                      (######W
+W $                 %                  W
+W#A#)           <======>               W
+WWWWW##)                               W
+W                         <=>          W
+W                  <=>                 W
+W         <===>                 ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)              <=>               W
+W            *m                        W
+W          <===>          <=>          W
+W                                ^    &W
+W                               (######W
+W $                 %                  W
+W#A#)           <======>               W
+WWWWW##)                               W
+W                          <=>         W
+W          <=>                         W
+W                               ?  m * W
+W                          (###########W
+W Z ?                                  W
+W#####)                <=>             W
+W            *m                        W
+W          <===>                       W
+W                                ^    &W
+W                               (######W
+W $                 %                  W
+W#A#)             <====>               W
+WWWWW##)                               W
+W                          <=>         W
+W                                      W
+W          <=>     <=>          ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)                                W
+W            *m          <=>           W
+W          <===>                       W
+W                                ^    &W
+W                               (######W
+W $      <=>        %                  W
+W#A#)             <====>               W
+WWWWW##)                               W
+W                         <=>          W
+W                                      W
+W           <=>                 ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)                                W
+W            *m          <=>           W
+W          <===>                       W
+W                                ^    &W
+W                               (######W
+W $                 %                  W
+W#A#)             <====>               W
+WWWWW##)                               W
+W                         <=>          W
+W                                      W
+W           <=>                 ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)               <=>              W
+W            *m                        W
+W          <===>                       W
+W                                ^    &W
+W                               (######W
+W $                 %                  W
+W#A#)           <======>               W
+WWWWW##)                               W
+W                         <=>          W
+W                                      W
+W          <=>                  ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)               <=>              W
+W            *m                        W
+W          <===>                       W
+W                                ^    &W
+W                               (######W
+W $                 %                  W
+W#A#)           <======>               W
+WWWWW##)                               W
+W                        <=>           W
+W                                      W
+W         <=>                   ?  m * W
+W                  <=>     (###########W
+W Z +                                  W
+W#####)                <=>             W
+W            *m                        W
+W          <===>                       W
+W                                ^    &W
+W                               (######W
+W $                 %                  W
+W#A#)           <======>               W
+WWWWW##)                               W
+W                         <=>          W
+W                                      W
+W          <=>                  ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)                                W
+W            *m        <=>             W
+W          <===>                       W
+W                                ^    &W
+W    <=>                        (######W
+W $                 %                  W
+W#A#)           <======>               W
+WWWWW##)                               W
+W                         <=>          W
+W                  <=>                  W
+W          <=>                  ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)                                W
+W            *m        <=>             W
+W          <===>                       W
+W   <=>                          ^    &W
+W                      <=>      (######W
+W $                                    W
+W#A#)           <======>               W
+WWWWW##)                               W
+W                         <=>          W
+W                                      W
+W         <=>                   ?  m * W
+W                          (###########W
+W Z +                                  W
+W#####)              <=>               W
+W              *m                      W
+W            <===>        <=>          W
+W                                ^    &W
+W      <=>                      (######W
+W $?                %                  W
+W#A#)           <======>               W
+WWWWW##)                               W
+WWWWWWWW) @   $       *     ?  +       W
+W###########AAAAAA#####################W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW

@@ -1,0 +1,13 @@
+﻿configure_file ("CollisionWithCoin.wav"   ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("CollisionWithEnemy.wav"  ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("Jump.wav"                ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("BoostRun.wav"            ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GameOver.wav"            ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("CollisionWithShield.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("CollisionWithSpring.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("BackGroundMusic1.ogg"    ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("BackGroundMusic2.ogg"    ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("BackGroundMusic3.ogg"    ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("OnButton.ogg"            ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("CollisionWithDimond.wav" ${CMAKE_BINARY_DIR} COPYONLY)
+

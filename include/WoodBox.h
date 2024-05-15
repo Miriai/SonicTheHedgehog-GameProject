@@ -1,0 +1,16 @@
+#pragma once
+#include "NonAnimationObject.h"
+
+//forward declaration
+template <class T>
+class Factory;
+
+class WoodBox : public NonAnimationObject
+{
+public:
+	WoodBox(float height, float width, b2World* world, char type);
+	void update(sf::Time delta) override {};
+private:
+	static bool m_registerit;
+
+};
